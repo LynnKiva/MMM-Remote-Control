@@ -1,0 +1,73 @@
+{
+    "TITLE": "Magic Mirror Menu",
+
+    "EDIT_MENU_NAME": "Редактирай изгледа",
+    "SHUTDOWN_MENU_NAME": "Power",
+    "CONFIGURE_MENU_NAME": "Редактирай config.js",
+    "VIEW_MIRROR": "MagicMirror<sup>2</sup>",
+
+    "BACK": "Назад",
+
+    "BRIGHTNESS": "Осветеност",
+
+    "REFRESHMM" : "Опресни браузъра",
+    "MONITOROFF": "Изключи монитора",
+    "MONITORON": "Включи монитора",
+    "MONITORTIMED": "Включи монитора за малко",
+    "RESTART": "Рестартирай",
+    "RESTARTMM": "Рестартирай MagicMirror<sup>2</sup>",
+    "SHUTDOWN": "Изключи",
+
+    "SHOWALL": "ВСИЧКИ",
+    "HIDEALL": "ВСИЧКИ",
+
+    "ADD_MODULE": "Добави модул",
+    "SEARCH": "Търси &hellip;",
+    "INSTALLED": "Инсталиран",
+    "DOWNLOAD": "Свали",
+    "DOWNLOADING": "Сваляне &hellip;",
+    "CODE_LINK": "Прегледай кода",
+    "BY": "от",
+    "ADD_THIS": "Добави този модул",
+    "HELP": "Покажи помощ",
+    "MENU": "Меню",
+    "RESET": "Рестартиране",
+    "NO_HEADER": "(без заглавие)",
+    "NO_POSITION": "(невидим)",
+    "ADD_ENTRY": "Добави запис",
+    "NEW_ENTRY_NAME": "(ново име на нов запис)",
+    "DELETE_ENTRY": "Изтрий",
+    "UNSAVED_CHANGES": "Незапаметени промени",
+    "OK": "Ок",
+    "DISCARD": "Отхвърли промени",
+
+    "NO_MODULES_LOADED": "Няма заредени модули.",
+    "SAVE": "Запази",
+
+    "EXPERIMENTAL": "Това е експериментална функция, която може да доведе до повреда на конфигурационния файл. Преди употреба, направете копие на конфигурационния файл!<br>Желаете ли да продължите?",
+    "PANIC": "Не, размислих.",
+    "NO_RISK_NO_FUN": "Без риск няма купон!",
+
+    "LOAD_ERROR": "Ако виждате това съобщение, то тогава е изникнала грешка при зареждане на файл. Моля, посетете изписания линк по-долу за подробна информация и помощ:",
+    "ISSUE_LINK": "Github issue page",
+
+    "DONE": "Готово.",
+    "ERROR": "Грешка!",
+    "LOADING": "Зареждане &hellip;",
+
+	"UPDATE_MENU_NAME" : "Обновявания",
+	"UPDATEMM" : "Обнови MagicMirror<sup>2</sup>",
+    "UPDATE_AVAILABLE" : "Намерено обновяване",
+
+	"ALERT_MENU_NAME" : "Тревога",
+	"SENDALERT" : "Изпрати",
+	"HIDEALERT" : "Скрий",
+    "FORM_TYPE" : "Напиши:",
+    "FORM_ALERT" : "Тревога",
+    "FORM_NOTIFICATION" : "Нотификация",
+    "FORM_TITLE" : "Заглавие:",
+    "FORM_TITLE_PLACEHOLDER" : "Въведи заглавие...",
+    "FORM_MESSAGE" : "Съобщение:",
+    "FORM_MESSAGE_PLACEHOLDER" : "Въведи съобщение...",
+    "FORM_SECONDS" : "Секунди:"
+}
